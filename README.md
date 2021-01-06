@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="HydroflaskPNG/Logo.png" alt="Logo"/>
+</p>
+
 # Hydroflask Website - Spring 2020
 
 Using Eclipse and phpMyAdmin, I created a e-commerce web application aiming to replicate the functionality of the Hydroflask website, that allows a user to login or register an account. Within their account, the user is able to shop for products, apply discounts to their cart, and perform a checkout process. Each user account has a role (customer or admin) that corresponds to the features available to that user. The application has a 3 different products public library, containing all of the songs in the database. These songs can be added and removed from specific playlists, and the combination of all of these songs create the user’s song library. The public library, user’s library, and each playlist can all be searched for specific songs. All necessary data for users, products, current carts, and order information was stored in a database using phpMyAdmin, and MAMP was used to host the application locally.
