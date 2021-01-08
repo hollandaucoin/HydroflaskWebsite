@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc orderBusinessService - This is a class to perform the business logic of orders between the presentation and persistence layers
  */
