@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc cartHandler - This file is to handle the process of a user adding, editing, and deleting a product from their cart
  */
