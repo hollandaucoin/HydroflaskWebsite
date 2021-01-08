@@ -1,6 +1,6 @@
 <!--
 
-@author Holland Aucoin and Andrei Yanovich
+@author Holland Aucoin
 @name Hydroflask Website
 @desc receiptPage - This is a page that gives the user a receipt confirmation of their order
 
