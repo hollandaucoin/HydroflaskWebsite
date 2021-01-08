@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc filterHandler - This file is to handle the process of converting the user's search filters into a SQL statement
  */
