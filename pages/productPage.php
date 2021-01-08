@@ -1,6 +1,6 @@
 <!--
 
-@author Holland Aucoin and Andrei Yanovich
+@author Holland Aucoin
 @name Hydroflask Website
 @desc productPage - This is a page that shows the details of a single product
 
