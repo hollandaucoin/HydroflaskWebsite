@@ -1,6 +1,6 @@
 <!--
 
-@author Holland Aucoin and Andrei Yanovich
+@author Holland Aucoin
 @name Hydroflask Website
 @desc orderReviewPage - This is a page that shows the user a review of their order
 
