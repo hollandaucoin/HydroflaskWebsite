@@ -1,6 +1,6 @@
 <!--
 
-@author Holland Aucoin and Andrei Yanovich
+@author Holland Aucoin
 @name Hydroflask Website
 @desc confirmationPage - This is a page that gives the user a confirmation after register or submitted a contact form
 
