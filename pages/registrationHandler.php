@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc registrationHandler - This file is to handle the process of a user registering by connecting to the database and adding their account
  */
