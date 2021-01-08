@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc adminUserHandler - This file is to handle the process of an admin adding, editing, and deleting a user
  */
