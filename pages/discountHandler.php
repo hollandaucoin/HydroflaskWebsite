@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc discountHandler - This file is to handle the process of a user entering a discount, and the admin adding/deleting a discount
  */
