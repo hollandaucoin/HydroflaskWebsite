@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc addressBusinessService - This is a class to perform the business logic of addresses between the presentation and persistence layers
  */
