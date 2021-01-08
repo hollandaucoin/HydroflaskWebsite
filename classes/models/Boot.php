@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc Boot - This is a class that acts as a boot object
  */
