@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc bottleBusinessService - This is a class to perform the business logic of bottles between the presentation and persistence layers
  */
