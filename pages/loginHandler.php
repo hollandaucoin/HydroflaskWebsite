@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc loginHandler - This file is to handle the process of a user logging in by connecting to the database and verifying their account
  */
