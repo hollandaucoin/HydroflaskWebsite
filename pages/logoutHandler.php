@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc logoutHandler - This file is to handle the process of a user logging out by ending the session and sending them to the confirmation page
  */
