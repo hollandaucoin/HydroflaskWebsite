@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc lidBusinessService - This is a class to perform the business logic of lids between the presentation and persistence layers
  */
