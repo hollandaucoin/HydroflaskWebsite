@@ -1,6 +1,6 @@
 <!--
 
-@author Holland Aucoin and Andrei Yanovich
+@author Holland Aucoin
 @name Hydroflask Website
 @desc homePage - This is a page that the user lands on when visiting the website
 
