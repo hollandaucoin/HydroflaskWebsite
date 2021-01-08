@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Holland Aucoin and Andrei Yanovich
+ * @author Holland Aucoin
  * @name Hydroflask Website
  * @desc checkoutHandler - This file is to handle the process out a user submitting their personal, shipping, and card information
  */
