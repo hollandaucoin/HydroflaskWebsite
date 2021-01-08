@@ -1,6 +1,6 @@
 <!--
 
-@author Holland Aucoin and Andrei Yanovich
+@author Holland Aucoin
 @name Hydroflask Website
 @desc discountsPage - This is a page that allows the admin to add and delete discounts
 
