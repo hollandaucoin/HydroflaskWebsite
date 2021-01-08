@@ -1,6 +1,6 @@
 <!-- 
 
-@author Holland Aucoin and Andrei Yanovich
+@author Holland Aucoin
 @name Hydroflask Website
 @desc aboutPage - This is a page that explains the background of the HydroFlask company
  
